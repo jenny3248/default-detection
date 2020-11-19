@@ -1,7 +1,7 @@
 # Credit Card Default Detection
-### Objective: Predict whether or not a credit card is going to default
+**Objective**: Predict whether or not a client's credit card is going to default next month
 
-### Feature Description
+## Feature Description
 **ID**: ID of each client
 
 **LIMIT_BAL**: Amount of given credit in NT dollars (includes individual and family/supplementary credit
@@ -21,3 +21,12 @@
 **PAY_AMT1 - PAY_AMT6**: Amount of previous payment in September, 2005 (NT dollar)
 
 **default.payment.next.month**: Default payment (1=yes, 0=no)
+
+## Libraries
+Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Imblearn
+## Data Cleaning
+
+<!-- ## EDA
+## Feature Engineering
+## Model Building
+## Model Performance -->
