@@ -24,9 +24,10 @@
 
 ## Libraries
 Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Imblearn
-## Data Cleaning
 
-<!-- ## EDA
+<!-- 
+## Data Cleaning
+## EDA
 ## Feature Engineering
 ## Model Building
 ## Model Performance -->
